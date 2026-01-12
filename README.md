@@ -48,21 +48,9 @@ I love turning ideas into working applications 🚀
 
 
 
-## 🚀 Featured Projects  
 
-### 🏥 Medical Automation System  
-- Built a full-stack web application with **authentication, appointment booking, health advisories, and prescriptions**  
-- Implemented **Firebase authentication** and contributed to a React-based frontend  
 
-### 🧠 Federated Learning-Based Diabetes Risk Prediction  
-- Developed a privacy-aware ML system using **Federated Learning** across multiple clients  
-- Compared federated vs centralized learning approaches using **scikit-learn**  
 
-### 💬 AI Chat & 📺 Video Streaming Applications  
-- Created React-based applications with **real-time API integration**  
-- Applied component-based architecture and responsive UI design  
-
----
 
 ## 🏆 Certifications  
 - MongoDB Certified Associate Developer – MongoDB, Inc.  
