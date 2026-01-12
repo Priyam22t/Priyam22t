@@ -1,4 +1,5 @@
 # 💫 Hi 👋, I'm Priyam Kotnala  
+![Profile Views](https://komarev.com/ghpvc/?username=Priyam22t)
 **Computer Science Undergraduate | Web Developer | ML Enthusiast**
 
 📍 India | 🎓 B.Tech CSE (2026) @ SRM University AP  
@@ -77,6 +78,10 @@ I love turning ideas into working applications 🚀
 ![](https://github-readme-stats.vercel.app/api?username=Priyam22t&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyam22t&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam22t&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🧠 LeetCode Profile  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kotnala_priyam?theme=dark&font=Karma&ext=heatmap)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
